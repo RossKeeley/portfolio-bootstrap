@@ -3,6 +3,10 @@ body {
   background-color: #f5f5f5;
 }
 
+.card {
+  $enable-shadows: true;
+}
+
 /* Left Column */
 /*.container .row .col-md-4 .container .row .card {
   border-radius: 12px;
